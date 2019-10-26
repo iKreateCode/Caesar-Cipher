@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-## Task 1 script
+## Task 1 script - Easy
 ### About
 A Caesar Cipher script written in Python, it involves Encryption and Decryption plus it’s all about Cryptography. 
 
@@ -27,7 +27,7 @@ Enter your key: 4
 Output result:  i got a message
 ```
 
-## Task 2 script
+## Task 2 script - Medium
 ### About
 Task 2 script will encrypt and decrypt a message by a keyword. The keyword will be repeated enough times until it matches the length of the message. The alphabet value of the message and keyword will be added to generate an encrypted message, or will be taken away to generate a decrypted message. There are 26 letters in the alphabet and if the final alphabet number is more than 26 then it will loop back to the start. 
 
@@ -50,7 +50,7 @@ Enter your keyword: Software
 Enter your message: Inzblo nl mlbbl!
 Output result: Python is great!
 ```
-## Task 3 script
+## Task 3 script - Hard
 ### About
 In task 3 two keywords are needed to encrypt and decrypt a message. The first keyword will be repeated enough timed until it matches the length of the message, then each letter of the message will be encrypted or decrypted with the first keyword. Next, the second keyword will be repeated enough times again until it matches the length of the first encrypted/decrypted message and then the new letter of the new message will be encrypted or decrypted with the second keyword. 
 
